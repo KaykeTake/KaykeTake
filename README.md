@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bem vindo! Eu sou Kayke, é um prazer!  👋
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykeTake&hide_progress=true&theme=radical"/>
+
+</div>
 
 <!--
 **KaykeTake/KaykeTake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
